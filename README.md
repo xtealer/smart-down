@@ -3,6 +3,7 @@
 @xtealr on twitter
 
 To install make the `install.sh` executable with `sudo chmod +x install.sh` and it will do everything else for you.
+**NOTE:** In order for `install.sh` script to work you need to edit the `smartdown.service` file and change **youruser** for the name of the user that you're using.
 
 This utility with execute on systemboot after you install it. if you preffer you can do the process manually with the commands
 contained inside the `install.sh` file. Is very useful when you have a laptop or dedicated machine that runs as a webserver, or
