@@ -2,7 +2,7 @@
 Description=Smart Shutdown (To keep HDD Integrity!)
 
 [Service]
-ExecStart=/home/youruser/.scripts/"safedown.sh"
+ExecStart=/lib/smart-down/smartdown.sh
 TimeoutSec=30
 Restart=on-failure
 RestartSec=5
