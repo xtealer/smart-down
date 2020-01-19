@@ -1,6 +1,7 @@
 # SMARTDOWN
 ## THE WHEN OFFLINE SYSTEM SHUTDOWN MANAGER
-@xtealr on twitter
+@xtealer00 on twitter
+@xtealer on instagram
 
 To install make the `install.sh` executable with `sudo chmod +x install.sh` then run with `./install.sh` and it will do everything else for you. **NOTE:** to uninstall follow the process above but just replace `install.sh` with `remove.sh` so it looks like `sudo chmod +x remove.sh` and run with `./remove.sh`.
 
